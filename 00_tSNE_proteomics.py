@@ -12,7 +12,7 @@ ID_COL = "UniProt ID"
 GROUP_COL = "group"
 
 RESCALE = True
-PLOT = True
+PLOT = False
 EXPORT = True
 
 
