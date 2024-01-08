@@ -5,11 +5,11 @@ This repository holds the simple custom script used in the data processing (tSNE
 Python packages: matplotlib >= 3.6.0, pandas >= 1.5.0, scikit-learn == 1.1.3
 
 ## Instructions
-Customize the parameters (e.g., file path, column names) by editing the script before use.
+Customize the parameters (e.g., file path, column names) by editing the script before use. /n
 Directly run the Python script in the terminal or an IDE with the requirements satisified.
 
 ## Demo
-Input data and expected output are provided in ./example_data/
+Input data and expected output are provided in ./example_data/ /n
 Expected runtime: < 10 s on a personal computer.
 
 ## Acknowledgements
