@@ -1,5 +1,5 @@
 # CAT-S_scripts
-This repository holds the simple custom script used in the data processing (tSNE visualization) of the Article "Bioorthogonal Photocatalytic Proximity Labeling in Living Primary Cells and Clinical Samples ". 
+This repository holds the simple custom script used in the data processing (tSNE visualization) of the Article "Bioorthogonal Photocatalytic Proximity Labeling in Primary Living Samples". 
 
 ## Requirments
 Python packages: matplotlib >= 3.6.0, pandas >= 1.5.0, scikit-learn == 1.1.3  
